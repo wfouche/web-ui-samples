@@ -1,3 +1,7 @@
+rd/q/s test-admin
+
+pause
+
 call yarn create react-app test-admin
 
 cd test-admin/
